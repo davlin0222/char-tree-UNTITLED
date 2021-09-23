@@ -1,0 +1,21 @@
+{
+    "name": "handle-seeker",
+    "description": "Specify rules to generate fictional words, then tweek the rules and repeat - seek until you find your perfect new handle",
+    "keywords": [],
+    "license": "MIT",
+    "author": "DavLin",
+    "homepage": "https://github.com/davlin0222/handle-seeker#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davlin0222/handle-seeker.git"
+    },
+    "bugs": {
+        "url": "https://github.com/davlin0222/handle-seeker/issues"
+    },
+    "version": "0.0.0",
+    "files": [],
+    "main": "index.js",
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {}
+}
